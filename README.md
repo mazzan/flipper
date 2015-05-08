@@ -1,2 +1,2 @@
-# Flipper - JQuery Image Rotataor Plugin
+# Flipper - JQuery Image Rotator Plugin
 Flipper
