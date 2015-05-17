@@ -1,4 +1,4 @@
-# FlipperImage Wheel
+# Flipper Image Wheel
 ## JQuery plugin
 
 Flipper is an extremely small JQuery pklugin designed to offer images to be shown in a fanstastic carousel like experience.
