@@ -25,6 +25,7 @@ The download contains:
 - jquery.flipper.js
 - img/image01 ->
 
+---
 
 ###Configuration JQuery
 
@@ -56,6 +57,8 @@ $(window).ready(function(){
 });
 ```
 
+---
+
 ###Configuration HTML
 
 The main structure of Flipper contains three boxes that each displays one image. The boxes are defined in the HTML code as "box1!, box2" and "box3". The smaller pictures used to show previous/ next picture and to navigate the carousel is box1 and box3. These two boxes are defined within a div-element called "smallBox" Box2, showing the main image, and "smallBox" are defined within a div-element called "wrapper".
@@ -75,6 +78,8 @@ The main structure of Flipper contains three boxes that each displays one image.
   </div>
 </div>
 ```
+
+---
 
 ###Configuration CSS
 
